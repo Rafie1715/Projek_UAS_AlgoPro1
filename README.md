@@ -8,7 +8,7 @@ Sebuah program peluncur alat (Tools Launcher) sederhana yang dibuat dengan Pytho
 
 ## 🖼️ Tampilan Aplikasi
 
-![Screenshot Tools Launcher](https://raw.githubusercontent.com/Rafie1715/Projek_UAS_AlgoPro1/main/screenshot.png)
+![Screenshot Tools Launcher](https://github.com/user-attachments/assets/d207fbfd-a6a2-4c9d-95c5-e0f8c18aaf3c)
 
 ## 📝 Deskripsi Proyek
 
