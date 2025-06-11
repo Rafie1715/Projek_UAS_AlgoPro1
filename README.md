@@ -1,8 +1,8 @@
 # Tools Launcher
 
-[![Bahasa](https.img.shields.io/badge/Bahasa-Python-blue.svg)](https://www.python.org/)
-[![Library](https.img.shields.io/badge/Library-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
-[![Lisensi](https.img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Bahasa](https://img.shields.io/badge/Bahasa-Python-blue.svg)](https://www.python.org/)
+[![Library](https://img.shields.io/badge/Library-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
+[![Lisensi](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Sebuah program peluncur alat (Tools Launcher) sederhana yang dibuat dengan Python dan library Tkinter. Aplikasi ini menyediakan akses cepat ke empat alat penting: Kalkulator, To-Do List, Notepad, dan Papan Tulis Digital (Whiteboard).
 
@@ -59,3 +59,10 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
     *Catatan: Pada beberapa sistem, Anda mungkin perlu menggunakan `python3` sebagai ganti `python`.*
 
 4.  **Selesai!** Aplikasi Tools Launcher akan muncul di layar Anda.
+
+## 🧑‍💻 Kontributor
+
+Dibuat oleh 
+1. **Danendra Helmy Pratama**
+2. **Muhamad Rafi Ramdhani**
+3. **Rafie Rojagat Bachri**
