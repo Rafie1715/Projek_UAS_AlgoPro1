@@ -43,7 +43,7 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/Rafie1715/Projek_UAS_AlgoPro1.git](https://github.com/Rafie1715/Projek_UAS_AlgoPro1.git)
+    git clone https://github.com/Rafie1715/Projek_UAS_AlgoPro1.git
     ```
 
 2.  **Masuk ke direktori proyek:**
