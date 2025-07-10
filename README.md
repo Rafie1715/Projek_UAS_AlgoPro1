@@ -54,7 +54,7 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 3.  **Jalankan file utama:**
     Pastikan Anda memiliki Python terinstal di komputer Anda.
     ```bash
-    python main.py
+    python Launcher.py
     ```
     *Catatan: Pada beberapa sistem, Anda mungkin perlu menggunakan `python3` sebagai ganti `python`.*
 
